@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luxalling
+ @Luxalling
 
 <!---
 Luxalling/Luxalling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
